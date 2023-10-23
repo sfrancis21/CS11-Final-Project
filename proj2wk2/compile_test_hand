@@ -1,0 +1,1 @@
+g++ -o test_hand -g -Wall -Werror -Wextra Card.cpp Hand.cpp Deck.cpp CardLinkedList.cpp CardImage.cpp GraphicsCanvas.cpp test_hand.cpp

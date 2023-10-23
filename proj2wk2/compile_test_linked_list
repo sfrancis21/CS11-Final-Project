@@ -1,0 +1,1 @@
+g++ -o test_linked_list -g -Wall -Werror -Wextra Card.cpp CardLinkedList.cpp test_linked_list.cpp

@@ -1,0 +1,1 @@
+g++ -o racko -g -Wall -Werror -Wextra Card.cpp CardLinkedList.cpp Deck.cpp Hand.cpp RackoPlayer.cpp CardImage.cpp GraphicsCanvas.cpp racko.cpp

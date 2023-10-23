@@ -1,0 +1,1 @@
+g++ -o test_deck -g -Wall -Werror -Wextra Card.cpp Deck.cpp CardLinkedList.cpp test_deck.cpp

@@ -1,0 +1,1 @@
+g++ -o test_rackoplayer -g -Wall -Werror -Wextra Card.cpp Hand.cpp CardLinkedList.cpp CardImage.cpp GraphicsCanvas.cpp Deck.cpp RackoPlayer.cpp test_rackoplayer.cpp

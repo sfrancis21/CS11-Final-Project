@@ -1,0 +1,1 @@
+g++ -o twentyone -g -Wall -Werror -Wextra Card.cpp CardLinkedList.cpp Deck.cpp twentyone.cpp
